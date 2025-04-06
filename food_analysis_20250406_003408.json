@@ -1,0 +1,21 @@
+{
+  "summary": "The person consumed Red Bull energy drinks.",
+  "total_calories": 330,
+  "nutritional_analysis": {
+    "protein": "0g",
+    "carbs": "28g each can",
+    "fat": "0g"
+  },
+  "recommendations": [
+    "Reduce the intake of energy drinks as they are high in sugar and may lead to health issues.",
+    "Include more protein, fiber, and healthy fats in the diet.",
+    "Consume more fruits, vegetables, and whole grains."
+  ],
+  "time_analysis": "The energy drinks were consumed throughout the day, this suggests a possible reliance on caffeine and sugar for energy.",
+  "improvement_suggestions": [
+    "Replace energy drinks with healthier alternatives such as water, herbal tea, or natural fruit juices.",
+    "Consider having regular meals to ensure a balanced nutrient intake.",
+    "Engage in regular physical activity."
+  ],
+  "charts": {}
+}

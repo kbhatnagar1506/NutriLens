@@ -1,0 +1,58 @@
+{
+  "summary": "The food intake data shows consumption of Red Bull Energy Drink twice. The item 'Minimalistic Room Design' appears to be a non-food item, or there was an error in recording.",
+  "total_calories": 220,
+  "nutritional_analysis": {
+    "protein": "Less than 1 gram",
+    "carbs": "28 grams",
+    "fat": "0 grams"
+  },
+  "recommendations": [
+    "Incorporate more whole foods into your diet for a balance of nutrients.",
+    "Reduce consumption of energy drinks as they are high in sugar and can lead to health issues.",
+    "Ensure accurate recording of food intake data."
+  ],
+  "time_analysis": "The energy drinks were consumed within a short period of time, indicating possible reliance on caffeine or sugar for energy. No other food intake was recorded.",
+  "improvement_suggestions": [
+    "Consider healthier alternatives for energy, such as fruits, nuts, or a balanced meal.",
+    "Regularly record all meals and snacks for more accurate nutrition tracking.",
+    "If you find it difficult to reduce energy drink consumption, seek advice from a dietician or healthcare professional."
+  ],
+  "charts": {},
+  "nutritional_insights": {
+    "total_calories": 220,
+    "total_protein": 0.0,
+    "total_carbs": 58.0,
+    "total_fat": 0.0,
+    "daily_goals": {
+      "calories": {
+        "goal": 2000,
+        "current": 220
+      },
+      "protein": {
+        "goal": 50,
+        "current": 0.0
+      },
+      "carbs": {
+        "goal": 275,
+        "current": 58.0
+      },
+      "fat": {
+        "goal": 55,
+        "current": 0.0
+      }
+    },
+    "calorie_balance": "Under daily calorie goal by 1780 calories",
+    "protein_adequacy": "Inadequate protein intake",
+    "carb_balance": "Unbalanced carbohydrate intake",
+    "fat_balance": "Unbalanced fat intake",
+    "meal_timing": "Consider spreading meals more evenly throughout the day",
+    "nutrient_density": "Focus on nutrient-dense foods to meet nutritional goals",
+    "hydration": "Remember to stay hydrated throughout the day",
+    "recommendations": [
+      "Include more protein-rich foods in your diet",
+      "Balance carbohydrate intake throughout the day",
+      "Choose healthy fats over saturated fats",
+      "Stay within daily calorie goals"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "food_items": [
+    {
+      "name": "Breakfast Bowl",
+      "time": "2025-04-06T08:30:00.000000+00:00",
+      "calories": 450,
+      "protein": 25.0,
+      "carbs": 45.0,
+      "fat": 15.0,
+      "protein_quality": "high",
+      "carb_type": "complex",
+      "fat_type": "moderate",
+      "insights": "High protein content | High carbohydrate content | Moderate fat content"
+    },
+    {
+      "name": "Lunch Salad",
+      "time": "2025-04-06T12:15:00.000000+00:00",
+      "calories": 350,
+      "protein": 20.0,
+      "carbs": 30.0,
+      "fat": 10.0,
+      "protein_quality": "medium",
+      "carb_type": "simple",
+      "fat_type": "moderate",
+      "insights": "Moderate protein content | Moderate carbohydrate content"
+    },
+    {
+      "name": "Dinner",
+      "time": "2025-04-06T18:45:00.000000+00:00",
+      "calories": 550,
+      "protein": 30.0,
+      "carbs": 50.0,
+      "fat": 20.0,
+      "protein_quality": "high",
+      "carb_type": "complex",
+      "fat_type": "high",
+      "insights": "High protein content | High carbohydrate content | Moderate fat content"
+    }
+  ],
+  "nutritional_insights": {
+    "total_calories": 1350,
+    "total_protein": 75,
+    "total_carbs": 125,
+    "total_fat": 45,
+    "calorie_balance": "67.5%",
+    "protein_adequacy": "100.0%",
+    "carb_balance": "50.0%",
+    "fat_balance": "64.3%",
+    "meal_timing": "Balanced meal timing",
+    "nutrient_density": "Low nutrient density",
+    "hydration": "Consider increasing water intake",
+    "recommendations": [
+      "Increase water intake"
+    ]
+  },
+  "charts": {}
+}

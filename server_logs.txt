@@ -1,0 +1,93 @@
+2025-04-05T22:42:43.919331+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T22:42:43.969608+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T22:51:34.542440+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T22:51:34.588842+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:17:45.780534+00:00 app[web.1]: 📨 Message received: Spectacles Triggered: Audio input
+2025-04-05T23:17:45.780547+00:00 app[web.1]:
+2025-04-05T23:17:47.718694+00:00 app[web.1]: ✅ New client connected!
+🍽️ FOOD/CALORIE RESPONSE:
+2025-04-05T23:17:47.765729+00:00 app[web.1]: 📨 Message received: It looks like you're holding a can of Celsius Sparkling Energy Drink, which features flavors like strawberry and kiwi. If you're looking for nutritional information or calorie content for this drink, let me know!
+----------------------------------------
+2025-04-05T23:22:52.546478+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T23:22:52.572692+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:23:12.936648+00:00 app[web.1]: 📨 Message received: Spectacles Triggered: Audio input
+2025-04-05T23:23:12.936682+00:00 app[web.1]:
+2025-04-05T23:23:15.042911+00:00 app[web.1]: ✅ New client connected!
+🍽️ FOOD/CALORIE RESPONSE:
+2025-04-05T23:23:15.091697+00:00 app[web.1]: 📨 Message received: It looks like you're holding a can of Celsius Sparkling Energy Drink in the StrawBerry Kiwi flavor. This type of energy drink is often marketed for its potential to boost metabolism and provide energy.
+2025-04-05T23:23:15.091698+00:00 app[web.1]:
+2025-04-05T23:23:15.091706+00:00 app[web.1]: If you're looking to track calories, typically a can like this has around 10 calories or fewer, but it's always good to check the specific label for accurate information. If you want details on its ingredients or nutrition facts, let me know!
+----------------------------------------
+2025-04-05T23:24:50.417514+00:00 heroku[router]: at=info method=GET path="/" host=krishna-websocket-123-cbb50832eaae.herokuapp.com request_id=180a3fb9-3741-69d1-3724-c1907e6ee6e8 fwd="38.101.220.234" dyno=web.1 connect=0ms service=117872ms status=101 bytes=0 protocol=http1.1 tls=true tls_version=unknown
+2025-04-05T23:24:50.418476+00:00 app[web.1]: ❌ Client disconnected.
+2025-04-05T23:24:56.966837+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T23:24:57.056983+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:27:06.940562+00:00 heroku[router]: at=info method=GET path="/" host=krishna-websocket-123-cbb50832eaae.herokuapp.com request_id=a64052be-decf-9598-bc75-abd4e85fdf21 fwd="38.101.220.234" dyno=web.1 connect=0ms service=129975ms status=101 bytes=0 protocol=http1.1 tls=true tls_version=unknown
+2025-04-05T23:27:06.941116+00:00 app[web.1]: ❌ Client disconnected.
+2025-04-05T23:27:16.989647+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T23:27:17.058378+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:27:41.213123+00:00 app[web.1]: 📨 Message received: Spectacles Triggered: Audio input
+2025-04-05T23:27:41.213139+00:00 app[web.1]:
+2025-04-05T23:27:43.607157+00:00 app[web.1]: ✅ New client connected!
+🍽️ FOOD/CALORIE RESPONSE:
+2025-04-05T23:27:43.681387+00:00 app[web.1]: 📨 Message received: It looks like you have a can of Celsius Sparkling Kiwi Strawberry in your hand. This drink is often marketed as a fitness beverage, providing essential energy and metabolism-boosting benefits with zero calories. If you're tracking your calorie intake, this drink would be counted as zero calories. If you have any other questions about nutritional content or calorie tracking, feel free to ask!
+----------------------------------------
+2025-04-05T23:30:24.585739+00:00 heroku[router]: at=info method=GET path="/" host=krishna-websocket-123-cbb50832eaae.herokuapp.com request_id=8a7c27ff-7a19-a92f-148f-f42eca5ad3fd fwd="38.101.220.234" dyno=web.1 connect=0ms service=187596ms status=101 bytes=0 protocol=http1.1 tls=true tls_version=unknown
+2025-04-05T23:30:24.586215+00:00 app[web.1]: ❌ Client disconnected.
+2025-04-05T23:30:35.055637+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T23:30:35.100517+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:30:51.421333+00:00 app[web.1]: 📨 Message received: Spectacles Triggered: Audio input
+2025-04-05T23:30:51.421342+00:00 app[web.1]:
+2025-04-05T23:30:53.880162+00:00 app[web.1]: ✅ New client connected!
+🍽️ FOOD/CALORIE RESPONSE:
+2025-04-05T23:30:53.943757+00:00 app[web.1]: 📨 Message received: It looks like you're holding a Celsius sparkling drink, specifically a flavor featuring kiwi and strawberry. If you're looking for nutritional information or calorie content for this beverage, most Celsius drinks typically contain around 10-20 calories per can, primarily from natural sources. Would you like more information on this drink or help with anything else?
+----------------------------------------
+2025-04-05T23:33:41.122137+00:00 heroku[router]: at=info method=GET path="/" host=krishna-websocket-123-cbb50832eaae.herokuapp.com request_id=3c5b0e41-4999-8bd2-8499-4c8797d2d10b fwd="38.101.220.234" dyno=web.1 connect=0ms service=186067ms status=101 bytes=0 protocol=http1.1 tls=true tls_version=unknown
+2025-04-05T23:33:41.122671+00:00 app[web.1]: ❌ Client disconnected.
+2025-04-05T23:33:57.388408+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T23:33:57.415838+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:34:08.447598+00:00 app[web.1]: 📨 Message received: Spectacles Triggered: Audio input
+2025-04-05T23:34:08.447607+00:00 app[web.1]:
+2025-04-05T23:34:10.246823+00:00 app[web.1]: ✅ New client connected!
+🍽️ FOOD/CALORIE RESPONSE:
+2025-04-05T23:34:10.304526+00:00 app[web.1]: 📨 Message received: It looks like you're holding a can of Celsius Sparkling energy drink in your image. This drink is usually marketed as a fitness beverage and often contains zero calories. If you have specific questions about it or need help with calorie tracking or nutritional information, feel free to ask!
+----------------------------------------
+2025-04-05T23:34:57.885047+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:35:57.128812+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:36:57.147648+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:37:55.646252+00:00 heroku[router]: at=info method=GET path="/" host=krishna-websocket-123-cbb50832eaae.herokuapp.com request_id=2628280c-8849-d8b0-6c7d-73cd9b1d5c0a fwd="38.101.220.234" dyno=web.1 connect=0ms service=238258ms status=101 bytes=0 protocol=http1.1 tls=true tls_version=unknown
+2025-04-05T23:37:55.646852+00:00 app[web.1]: ❌ Client disconnected.
+2025-04-05T23:38:06.197361+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T23:38:06.226095+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:38:49.606598+00:00 app[web.1]: 📨 Message received: Spectacles Triggered: Audio input
+2025-04-05T23:38:49.606609+00:00 app[web.1]:
+2025-04-05T23:38:53.323902+00:00 app[web.1]: ✅ New client connected!
+🍽️ FOOD/CALORIE RESPONSE:
+2025-04-05T23:38:53.408887+00:00 app[web.1]: 📨 Message received: It looks like you're holding a can of Celsius Sparkling Kiwi Strawberry. This drink is marketed as an energy drink that may help with metabolism and fat burning. If you need specific information about its nutritional content or calorie count, please let me know!
+----------------------------------------
+2025-04-05T23:39:05.948625+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:40:05.868004+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:40:27.570743+00:00 heroku[router]: at=info method=GET path="/" host=krishna-websocket-123-cbb50832eaae.herokuapp.com request_id=07534b14-7dd1-ae00-8e5f-03642989c21e fwd="38.101.220.234" dyno=web.1 connect=0ms service=141373ms status=101 bytes=0 protocol=http1.1 tls=true tls_version=unknown
+2025-04-05T23:40:27.571181+00:00 app[web.1]: ❌ Client disconnected.
+2025-04-05T23:40:38.293392+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T23:40:38.320659+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:41:08.046078+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:41:27.610877+00:00 app[web.1]: 📨 Message received: Spectacles Triggered: Audio input
+2025-04-05T23:41:27.610908+00:00 app[web.1]:
+2025-04-05T23:41:29.959877+00:00 app[web.1]: ✅ New client connected!
+🍽️ FOOD/CALORIE RESPONSE:
+2025-04-05T23:41:30.021310+00:00 app[web.1]: 📨 Message received: It looks like you're holding a can of Celsius Sparkling Energy Drink with flavors of strawberry and kiwi. If you're looking to track the calories or nutritional information for this drink, a typical Celsius energy drink contains about 10 calories per can, primarily from natural flavors.
+2025-04-05T23:41:30.021312+00:00 app[web.1]:
+2025-04-05T23:41:30.021312+00:00 app[web.1]: If you have any specific dietary goals or questions regarding your intake, feel free to ask!
+----------------------------------------
+2025-04-05T23:41:38.339688+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:42:08.008163+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:42:38.000096+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:43:08.029616+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:43:38.110274+00:00 app[web.1]: 📨 Message received: ping
+2025-04-05T23:43:47.885922+00:00 heroku[router]: at=info method=GET path="/" host=krishna-websocket-123-cbb50832eaae.herokuapp.com request_id=6116aa07-087b-aa80-bff5-ab0fcb670a85 fwd="38.101.220.234" dyno=web.1 connect=0ms service=189593ms status=101 bytes=0 protocol=http1.1 tls=true tls_version=unknown
+2025-04-05T23:43:47.886492+00:00 app[web.1]: ❌ Client disconnected.
+2025-04-05T23:47:25.374030+00:00 app[web.1]: ✅ New client connected!
+2025-04-05T23:47:25.407070+00:00 app[web.1]: 📨 Message received: Spectacles connected!
+2025-04-05T23:48:22.253324+00:00 heroku[router]: at=info method=GET path="/" host=krishna-websocket-123-cbb50832eaae.herokuapp.com request_id=faab5951-426f-3385-5594-82b1d776cbb0 fwd="38.101.220.234" dyno=web.1 connect=0ms service=56879ms status=101 bytes=0 protocol=http1.1 tls=true tls_version=unknown
+2025-04-05T23:48:22.253802+00:00 app[web.1]: ❌ Client disconnected. 

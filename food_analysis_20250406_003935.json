@@ -1,0 +1,58 @@
+{
+  "summary": "The food intake data consists of two instances of consuming Red Bull Energy Drink. An entry titled 'Minimalistic Room Design' appears to be an error as it is not a food item.",
+  "total_calories": 220,
+  "nutritional_analysis": {
+    "protein": "Less than 1g",
+    "carbs": "28g",
+    "fat": "0g"
+  },
+  "recommendations": [
+    "Reduce intake of energy drinks due to high sugar content",
+    "Increase protein intake for balanced nutrition",
+    "Include more whole foods in diet for essential vitamins and minerals"
+  ],
+  "time_analysis": "Both consumptions of energy drinks occurred in close succession in the early hours of the morning. This could indicate a reliance on caffeine for energy.",
+  "improvement_suggestions": [
+    "Replace energy drinks with healthier sources of energy such as fruits, oats or nuts",
+    "Establish a regular eating pattern to avoid energy slumps",
+    "Include a variety of foods to ensure a balanced nutrient intake"
+  ],
+  "charts": {},
+  "nutritional_insights": {
+    "total_calories": 220,
+    "total_protein": 0.0,
+    "total_carbs": 58.0,
+    "total_fat": 0.0,
+    "daily_goals": {
+      "calories": {
+        "goal": 2000,
+        "current": 220
+      },
+      "protein": {
+        "goal": 50,
+        "current": 0.0
+      },
+      "carbs": {
+        "goal": 275,
+        "current": 58.0
+      },
+      "fat": {
+        "goal": 55,
+        "current": 0.0
+      }
+    },
+    "calorie_balance": "Under daily calorie goal by 1780 calories",
+    "protein_adequacy": "Inadequate protein intake",
+    "carb_balance": "Unbalanced carbohydrate intake",
+    "fat_balance": "Unbalanced fat intake",
+    "meal_timing": "Consider spreading meals more evenly throughout the day",
+    "nutrient_density": "Focus on nutrient-dense foods to meet nutritional goals",
+    "hydration": "Remember to stay hydrated throughout the day",
+    "recommendations": [
+      "Include more protein-rich foods in your diet",
+      "Balance carbohydrate intake throughout the day",
+      "Choose healthy fats over saturated fats",
+      "Stay within daily calorie goals"
+    ]
+  }
+}

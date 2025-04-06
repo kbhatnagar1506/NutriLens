@@ -1,0 +1,58 @@
+{
+  "summary": "The data indicates that the individual consumed two Red Bull Energy Drinks on April 6, 2025. There is also a mention of 'Minimalistic Room Design', which is not a consumable item and therefore cannot be included in the food intake analysis.",
+  "total_calories": 220,
+  "nutritional_analysis": {
+    "protein": "0 grams",
+    "carbs": "56 grams",
+    "fat": "0 grams"
+  },
+  "recommendations": [
+    "Reduce the intake of energy drinks as they are high in sugar and can lead to health problems if consumed excessively.",
+    "Include more protein, fibers, and healthy fats in your diet for balanced nutrition.",
+    "Try to consume foods with natural sugars instead of those with added sugars."
+  ],
+  "time_analysis": "The two Red Bull Energy Drinks were consumed within a span of approximately 10 minutes, which suggests potential binge drinking behavior. Regular consumption of food or drinks in such a short span may lead to health issues.",
+  "improvement_suggestions": [
+    "Consider replacing energy drinks with healthier alternatives like fresh fruit juices, natural smoothies, or water.",
+    "Try to spread out your drinking and eating over a longer span of time to aid digestion and absorption of nutrients.",
+    "Keep track of your food and drink intake to ensure a balanced diet."
+  ],
+  "charts": {},
+  "nutritional_insights": {
+    "total_calories": 220,
+    "total_protein": 0.0,
+    "total_carbs": 58.0,
+    "total_fat": 0.0,
+    "daily_goals": {
+      "calories": {
+        "goal": 2000,
+        "current": 220
+      },
+      "protein": {
+        "goal": 50,
+        "current": 0.0
+      },
+      "carbs": {
+        "goal": 275,
+        "current": 58.0
+      },
+      "fat": {
+        "goal": 55,
+        "current": 0.0
+      }
+    },
+    "calorie_balance": "Under daily calorie goal by 1780 calories",
+    "protein_adequacy": "Inadequate protein intake",
+    "carb_balance": "Unbalanced carbohydrate intake",
+    "fat_balance": "Unbalanced fat intake",
+    "meal_timing": "Consider spreading meals more evenly throughout the day",
+    "nutrient_density": "Focus on nutrient-dense foods to meet nutritional goals",
+    "hydration": "Remember to stay hydrated throughout the day",
+    "recommendations": [
+      "Include more protein-rich foods in your diet",
+      "Balance carbohydrate intake throughout the day",
+      "Choose healthy fats over saturated fats",
+      "Stay within daily calorie goals"
+    ]
+  }
+}
