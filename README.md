@@ -67,7 +67,7 @@ See more at [Open AI Vision](https://platform.openai.com/docs/guides/vision)
 
 <img src="./README-ref/tts.png" alt="Text-to-Speech" width="300" />
 
-### Text-to-Speech
+### Text-to-Speech:
 
 Leveraging OpenAI’s Text-to-Speech API, the application converts textual information into audio output for seamless user interaction. This feature is handled by the `TextToSpeechOpenAI.js` script.
 Remember to check "Mix To Snap" if you wish to record the Assistant voice in your recordings.
