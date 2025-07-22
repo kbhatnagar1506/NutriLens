@@ -5,7 +5,7 @@
 <img src="./README-ref/sample-list-ai-assistant-rounded-edges.gif" alt="ai-assistant" width="500" />
 
 
-## Overview
+## Overview:
 This is a sample project that demonstrates an AI-powered vision assistance tool. The application uses [Spectacles ML Voice and Camera APIs](https://developers.snap.com/spectacles/about-spectacles-features/apis/camera-module) alongside OpenAI’s APIs for vision processing and text-to-speech capabilities.
 The example is provided equally in Javascript and Typescript codebase.
 
